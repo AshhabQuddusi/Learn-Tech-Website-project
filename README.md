@@ -1,20 +1,20 @@
-🌐 LearnTech Plus – Educational Website
+🌐 LearnTech – Educational Website
 
 This is a multi-page educational website that provides users with courses, tech support services, and learning resources.
 It is built using HTML and CSS with a focus on structured layout and simple UI design.
 
 🚀 Features
-Multi-page website (Home, Courses, Tech Support, Contact, etc.)
-Course listing with beginner-friendly content
-Tech support service sections
-Pricing plans (Premium Plus)
-Contact form for user interaction
-Consistent navigation across all pages
+• Multi-page website (Home, Courses, Tech Support, Contact, etc.)
+• Course listing with beginner-friendly content
+• Tech support service sections
+• Pricing plans (Premium Plus)
+• Contact form for user interaction
+• Consistent navigation across all pages
 
 🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript
+• HTML5
+• CSS3
+• Normalize.css
 
 📂 Project Structure
 LearnTech/
@@ -37,26 +37,22 @@ LearnTech/
 │
 ├── img/
 
-🌐 Website Pages
-Home Page – Landing section with featured courses and stats
-Courses Page – Displays available beginner courses
-Tech Support Page – Services like computer & device support
-Premium Plus Page – Subscription plans and pricing
-Learn Tech Page – Learning resources like videos, podcasts, blogs
-Contact Page – User input form for communication
-
+🌐 Live Website
+    https://ashhabquddusi.github.io/Learn-Tech-Website-project/
+    
 ⚙️ How to Run
-Download or clone the repository
-Open index.html in your browser
+1. Download or clone the repository
+2. Open index.html in your browser
 
 💡 Future Improvements
-Make the design fully responsive (currently uses fixed positioning)
-Add JavaScript for interactivity
-Integrate backend for form handling
-Improve UI/UX and modernize layout
+• Make the design fully responsive (currently uses fixed positioning)
+• Add JavaScript for interactivity
+• Integrate backend for form handling
+• Improve UI/UX and modernize layout
+
 📬 Contact
-GitHub: https://github.com/AshhabQuddusi
-LinkedIn: www.linkedin.com/in/ashhab-quddusi
+• GitHub: https://github.com/AshhabQuddusi
+• LinkedIn: www.linkedin.com/in/ashhab-quddusi
 
 ⭐ Acknowledgment
 
